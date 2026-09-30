@@ -1,3 +1,4 @@
-A Plain And Simple Form Validation With Javascript
+A Plain And Simple Form Validation made With Javascript
 
-[👉Click to Open Calculator: ](https://eneskotech.github.io/Form-Validation-with-Javascript/)
+Test Run👇👇
+[👉Click to Open Form: ](https://eneskotech.github.io/Form-Validation-with-Javascript/)
